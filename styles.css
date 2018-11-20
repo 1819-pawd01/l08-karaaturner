@@ -1,0 +1,49 @@
+/*
+* Kara Turner
+* November 20, 2018
+* Lab 08 - Home
+*/
+
+/* The universal selector */
+
+* {}
+
+/* Body attributes here */
+
+p {
+    text-indent: 10px;
+    font-size: 22px;
+}
+
+body {
+    background-color: #ffaa80;
+    font-family: Verdana, sans-serif, serif;
+    color: #33ccff;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-variant: uppercase;
+}
+
+h3 {
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+a {
+    text-decoration: overline underline;
+}
+
+footer {
+    font-size: 100%;
+}
+
+img {
+
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
